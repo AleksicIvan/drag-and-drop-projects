@@ -1,0 +1,1 @@
+Small Project handler app based on Max's TypeScript course.
